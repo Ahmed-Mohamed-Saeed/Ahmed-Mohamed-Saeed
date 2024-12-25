@@ -40,6 +40,8 @@
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
+<p align="center"></p>
+
 <p align="center">
   <img width="49%"
     src="https://github-readme-stats.vercel.app/api?username=Ahmed-Mohamed-Saeed&show_icons=true&theme=radical" />
