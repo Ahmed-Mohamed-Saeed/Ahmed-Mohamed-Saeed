@@ -28,7 +28,7 @@
 
 <h2 align="center">🚀 Quick Facts</h2>
 
-<img align="right" alt="Coding" width="300"
+<img align="right" alt="Coding" width="265"
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 💻 MERN Stack Specialist & React.js Expert
@@ -39,8 +39,6 @@
 - ⚡ Fun fact: I debug code faster than I debug life!
 
 <h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center"></p>
 
 <p align="center">
   <img width="49%"
