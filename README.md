@@ -53,7 +53,7 @@
     alt="Top Languages" />
 </p>
 
-<details>
+<!-- <details>
   <summary>
     <h3>📌 Featured Projects</h3>
   </summary>
@@ -77,7 +77,7 @@
         alt="Brainwave" />
     </a>
   </p>
-</details>
+</details> -->
 
 <!-- <h2 align="center">📈 Contribution Graph</h2>
 
