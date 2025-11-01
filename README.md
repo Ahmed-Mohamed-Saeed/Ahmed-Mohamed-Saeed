@@ -79,9 +79,9 @@
   </p>
 </details>
 
-<h2 align="center">📈 Contribution Graph</h2>
+<!-- <h2 align="center">📈 Contribution Graph</h2>
 
-<!-- <img
+<img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Mohamed-Saeed&theme=redical&bg_color=20232a&hide_border=true"
   width="100%" /> -->
 
