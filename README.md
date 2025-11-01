@@ -85,7 +85,7 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Mohamed-Saeed&theme=redical&bg_color=20232a&hide_border=true"
   width="100%" />
 
-  ![Snake Animation](https://github.com/Ahmed-Mohamed-Saeed/Ahmed-Mohamed-Saeed/blob/output/snake-dark.svg)
+![Snake Animation](https://github.com/Ahmed-Mohamed-Saeed/Ahmed-Mohamed-Saeed/blob/output/snake-dark.svg)
 
 <h2 align="center">🌐 Connect with me</h2>
 
@@ -121,5 +121,7 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
 <div align="center">
+
 [![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Mohamed-Saeed&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Ahmed-Mohamed-Saeed)
+
 </div>
