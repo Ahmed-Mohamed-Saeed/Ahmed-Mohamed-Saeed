@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3300ff&center=true&vCenter=true&width=435&lines=Senior+Frontend+Developer;React.js+Specialist;React+Native+Enthusiast;Always+Learning+New+Technologies"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3300ff&center=true&vCenter=true&width=435&lines=Senior+Frontend+Developer;React.js+Specialist;React+Native+Enthusiast"
       alt="Typing SVG" />
   </a>
 </p>
@@ -85,7 +85,7 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Mohamed-Saeed&theme=redical&bg_color=20232a&hide_border=true"
   width="100%" /> -->
 
-![Snake Animation](https://raw.githubusercontent.com/Ahmed-Mohamed-Saeed/Ahmed-Mohamed-Saeed/output/snake.gif)
+<img src="https://raw.githubusercontent.com/Ahmed-Mohamed-Saeed/Ahmed-Mohamed-Saeed/output/github-snake-dark.svg" width="94%" alt="Contribution snake" />
 
 <h2 align="center">🌐 Connect with me</h2>
 
@@ -114,7 +114,7 @@
 
 <h3 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!"
 </h3>
 
 <img width="100%"
