@@ -85,7 +85,7 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Mohamed-Saeed&theme=redical&bg_color=20232a&hide_border=true"
   width="100%" /> -->
 
-<img src="https://raw.githubusercontent.com/Ahmed-Mohamed-Saeed/Ahmed-Mohamed-Saeed/output/github-snake-dark.svg" width="94%" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/Ahmed-Mohamed-Saeed/Ahmed-Mohamed-Saeed/output/snake-dark.svg" width="94%" alt="Contribution snake" />
 
 <h2 align="center">🌐 Connect with me</h2>
 
