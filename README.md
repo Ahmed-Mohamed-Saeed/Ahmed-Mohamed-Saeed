@@ -23,7 +23,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript,redux,tailwind,html,css,js,git,vscode,postman,appwrite,materialui,&perline=8" />
+    src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,express,mongodb,postgresql,typescript,redux,express,nuxt,vue,html,css,js,git,vscode,postman,appwrite,graphql&perline=8" />
 </p>
 
 <h2 align="center">🚀 Quick Facts</h2>
