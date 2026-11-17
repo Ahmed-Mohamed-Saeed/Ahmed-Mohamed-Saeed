@@ -85,7 +85,7 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Mohamed-Saeed&theme=redical&bg_color=20232a&hide_border=true"
   width="100%" /> -->
 
-![Snake Animation](https://github.com/Ahmed-Mohamed-Saeed/Ahmed-Mohamed-Saeed/blob/output/snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/Ahmed-Mohamed-Saeed/Ahmed-Mohamed-Saeed/output/snake.gif)
 
 <h2 align="center">🌐 Connect with me</h2>
 
